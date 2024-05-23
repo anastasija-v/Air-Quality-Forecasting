@@ -1,1 +1,1 @@
-Baigiamojo darbo programinis kodas: oro kokybės Lietuvoje prognozavimas, naudojant rekurentinius neuroninius tinklus
+Baigiamojo darbo programinis kodas: oro kokybės Lietuvoje prognozavimas, naudojant rekurentinius neuroninius tinklus.
