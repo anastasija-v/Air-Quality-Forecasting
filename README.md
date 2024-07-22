@@ -1,1 +1,1 @@
-Baigiamojo darbo programinis kodas: oro kokybės Lietuvoje prognozavimas, naudojant rekurentinius neuroninius tinklus.
+Vilniaus Universiteto Matematikos ir Informatikos fakulteto Matematikos ir matematikos taikymų baigiamojo bakalauro darbo programinis kodas: oro kokybės Lietuvoje prognozavimas, naudojant rekurentinius neuroninius tinklus.
